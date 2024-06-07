@@ -1,7 +1,5 @@
 package ru.netology
 
-import kotlin.time.times
-
 fun main() {
     val minCommission = 35
     val commission = 0.075 // 0.75 процента
